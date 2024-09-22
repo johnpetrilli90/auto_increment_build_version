@@ -50,7 +50,6 @@ int main() {
     int minor_num;                      // minor revision number
     int bug_num;                        // bug fix number 
     int build_num;                      // extracted build number from the header file
-    char *token;                        // pointer to use and store string tokens
     int build_position = 0;             // EOL position of the line of code containing the string BUILD_VER_NAME
     int fw_version_position = 0;        // EOL position of the line of code containing the string COMPLETE_VER_NAME
     int build_len = 0;                  // length of the line of code which matches the string in BUILD_VER_NAME

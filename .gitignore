@@ -1,2 +1,5 @@
 #Don't add microchip example
 auto_increment_fw_version/
+**/*.exe
+**/*.txt
+*.mp4

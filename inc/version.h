@@ -17,9 +17,9 @@
 #define FW_VERSION_MAJOR 1
 #define FW_VERSION_MINOR 3
 #define FW_VERSION_BUGFIX 8
-#define FW_VERSION_BUILD 81
+#define FW_VERSION_BUILD 82
 
 // The FW_VERSION variable will be automatically updated in the pre-build script
-#define FW_VERSION "1.3.8.81"
+#define FW_VERSION "1.3.8.82"
 
 #endif /* VERSION_H_ */
